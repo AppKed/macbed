@@ -6,6 +6,58 @@
 ---
 # List of applications
 ---
+**WebStorm 2017.2.3**
+* [Download](http://ally.sh/iKNZk)
+* [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)
+---
+**CLion 2017.2.2**
+* [Download](http://ally.sh/81R2O)
+* [https://www.jetbrains.com/clion/](https://www.jetbrains.com/clion/)
+---
+**Liquid Flow 11**
+* [Download](http://ally.sh/i0Zrh)
+* [Information](https://itunes.apple.com/us/app/liquid-flow/id569048352?mt=12)
+---
+**File Cabinet Pro 4.2.9**
+* [Download](http://ally.sh/D5Rck)
+* [Information](https://itunes.apple.com/mx/app/file-cabinet-pro/id1150565778?mt=12)
+---
+**PicConvert 1.1**
+* [Download](http://ally.sh/mYfdJ)
+* [Information](http://profesionalsoftware.com/picconvert-powerful-image-converter/)
+---
+**IconJar 1.5.0**
+* [Download](http://ally.sh/rUH9X)
+* [https://geticonjar.com/](https://geticonjar.com/)
+---
+**Tinderbox 7.2.0**
+* [Download](http://ally.sh/9uXbV)
+* [http://www.eastgate.com/Tinderbox/](http://www.eastgate.com/Tinderbox/)
+---
+**VueScan 9.5.84**
+* [Download](http://ally.sh/y02zw)
+* [http://www.eastgate.com/Tinderbox/](https://www.hamrick.com/)
+---
+**AnyTrans 5.5.4**
+* [Download](http://ally.sh/er8BN)
+* [https://www.imobie.com/anytrans/](https://www.imobie.com/anytrans/)
+---
+**Clipboard Manager 1.9.4**
+* [Download](http://ally.sh/TP6ym)
+* [Information](https://www.macbed.com/clipboard-manager-1-9-4/)
+---
+**Navicat Premium 12.0.12**
+* [Download](http://ally.sh/TJDjA)
+* [https://www.navicat.com/en](https://www.navicat.com/en)
+---
+**CleanMyMac 3.8.6**
+* [Download](http://ally.sh/hfTSw)
+* [https://macpaw.com/cleanmymac](https://macpaw.com/cleanmymac)
+---
+**Parallels Desktop 13.0.0**
+* [Download](http://ally.sh/PSO6i)
+* [http://www.parallels.com/products/desktop/](http://www.parallels.com/products/desktop/)
+---
 **Kiwi for Gmail 2.0.6**
 * [Download](http://corneey.com/q4TqEg)
 * [information](https://www.macbed.com/kiwi-for-gmail-2-0-6/)
