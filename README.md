@@ -6,6 +6,34 @@
 ---
 # List of applications
 ---
+**iMazing 2.4.0**
+* [Download](http://ally.sh/dxZ5L)
+* [https://imazing.com/](https://imazing.com/)
+---
+**Bartender 3.0 Beta**
+* [Download](http://ally.sh/Jxzgi)
+* [https://www.macbartender.com/](https://www.macbartender.com/)
+---
+**Xee 3.5.3**
+* [Download](http://ally.sh/cncwK)
+* [Information](https://itunes.apple.com/us/app/xee/id639764244?mt=12)
+---
+**Dropshare 4.6.7**
+* [Download](http://ally.sh/ivuP9)
+* [https://droplr.com/apps](https://droplr.com/apps)
+---
+**Tri-BACKUP Pro 8.1.3**
+* [Download](http://ally.sh/TrXqY)
+* [Information](http://www.tri-edre.com/download/download/downloadtbu.html)
+---
+**Superstring Pro 2.9.4**
+* [Download](http://ally.sh/vjbM5)
+* [https://sways.io/superstring/](https://sways.io/superstring/)
+---
+**PhpStorm 2017.2.2**
+* [Download](http://ally.sh/h8Z5J)
+* [https://www.jetbrains.com/phpstorm/](https://www.jetbrains.com/phpstorm/)
+---
 **WebStorm 2017.2.3**
 * [Download](http://ally.sh/iKNZk)
 * [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)
