@@ -74,3 +74,51 @@
 * [Download](http://ally.sh/8SRV1)
 * [information](https://www.macbed.com/justbroadcaster-for-facebook-1-8-8/)
 ---
+**Apple MainStage 3.3.2**
+* [Download](http://ally.sh/WWGRh)
+* [information](https://www.macbed.com/apple-mainstage-3-3-2/)
+---
+**Carbon Copy Cloner 5.0**
+* [Download](http://ally.sh/pPvdo)
+* [information](https://www.macbed.com/carbon-copy-cloner-5-0/)
+---
+**Nuke Studio 11.0 v2**
+* [Download](http://ally.sh/PvvY5)
+* [information](https://www.macbed.com/nuke-studio-11-0-v2/)
+---
+**Winclone 6.1.2**
+* [Download](http://ally.sh/cg6Yt)
+* [information](https://www.macbed.com/winclone-6-1-2/)
+---
+**Audirvana Plus 3.1.2**
+* [Download](http://ally.sh/C1aWe)
+* [information](https://www.macbed.com/audirvana-plus-3-1-2/)
+---
+**Wondershare Video Converter Ultimate 10.0.4**
+* [Download](http://ally.sh/WYLax)
+* [information](https://www.macbed.com/wondershare-video-converter-ultimate-10-0-4/)
+---
+**Cocktail 10.4.3**
+* [Download](http://ally.sh/2z7BS)
+* [information](https://www.macbed.com/cocktail-10-4-3/)
+---
+**Amarra 4.0.295**
+* [Download](http://ally.sh/cl57T)
+* [information](https://www.macbed.com/amarra-4-0-295/)
+---
+**TinkerTool System 5.63**
+* [Download](http://ally.sh/6kbCI)
+* [information](https://www.macbed.com/tinkertool-system-5-63/)
+---
+**MacCleanse 6.0.3**
+* [Download](http://ally.sh/5MI44)
+* [information](https://www.macbed.com/maccleanse-6-0-3/)
+---
+**PrefEdit 3.9.1**
+* [Download](http://ally.sh/t4ivD)
+* [information](https://www.macbed.com/prefedit-3-9-1/)
+---
+**Sublime Text 3142**
+* [Download](http://ally.sh/mxF9a)
+* [information](https://www.macbed.com/sublime-text-3142/)
+---
